@@ -6,7 +6,6 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: El Ranchito 3 Mexican Restaurant
-    subtitle: 'One platform, one community.'
     actions:
       - type: Button
         label: Get Started
