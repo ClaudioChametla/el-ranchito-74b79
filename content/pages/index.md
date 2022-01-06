@@ -8,7 +8,7 @@ sections:
     title: El Ranchito 3 Mexican Restaurant
     actions:
       - type: Button
-        label: Get Started
+        label: Order Now
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
