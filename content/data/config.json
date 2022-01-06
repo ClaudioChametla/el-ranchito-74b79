@@ -28,7 +28,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "order food",
                 "altText": "Blog",
                 "url": "/blog"
             }
