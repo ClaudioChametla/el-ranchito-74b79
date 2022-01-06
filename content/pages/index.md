@@ -11,12 +11,6 @@ sections:
         label: Order Now
         url: 'https://www.stackbit.com/'
         style: primary
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
     media:
       type: ImageBlock
       url: /images/2.jpg
