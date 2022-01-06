@@ -10,7 +10,7 @@ sections:
       - type: Button
         label: Order Now
         url: 'https://www.stackbit.com/'
-        style: primary
+        style: secondary
       - type: Link
         label: Learn More
         url: /
