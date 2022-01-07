@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Blog
-numOfPostsPerPage: 10
+numOfPostsPerPage: 1
 styles:
   title:
     textAlign: center
