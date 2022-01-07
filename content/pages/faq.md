@@ -63,7 +63,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
+        url: /images/Captura de pantalla de 2022-01-07 08-53-24.png
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
