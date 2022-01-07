@@ -152,9 +152,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Mexican Drinks
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+    subtitle: These are some mexican drinks
     items:
       - type: FeaturedItem
         title: Faster
