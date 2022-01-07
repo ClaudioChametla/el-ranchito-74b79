@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Order Now!
 numOfPostsPerPage: 1
 styles:
   title:
