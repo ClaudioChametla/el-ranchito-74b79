@@ -204,9 +204,8 @@ sections:
               - pr-4
       - type: FeaturedItem
         title: Especial Drinks
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
