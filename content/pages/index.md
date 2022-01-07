@@ -45,9 +45,8 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Best dish of the day
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: |
+      Speedy Gonzales, Taco, enchilada, Rice or Beans.
     badge:
       type: Badge
       styles:
