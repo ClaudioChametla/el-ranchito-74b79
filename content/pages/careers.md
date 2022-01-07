@@ -101,7 +101,6 @@ sections:
     title: Open Hours
     jobLists:
       - type: JobList
-        title: Product
         items:
           - type: JobListItem
             title: Director of product managment
