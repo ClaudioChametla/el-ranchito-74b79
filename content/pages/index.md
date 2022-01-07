@@ -261,7 +261,7 @@ sections:
       - quote: |
           They Say About Us
         name: Carla Rogers
-        title: Happy customer
+        title: Nice Restaurant
         image:
           type: ImageBlock
           url: /images/carla.jpg
