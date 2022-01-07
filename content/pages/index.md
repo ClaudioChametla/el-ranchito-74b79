@@ -119,7 +119,7 @@ sections:
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
-        url: /images/xbox.svg
+        url: /images/DoorDash-Logo.png
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
