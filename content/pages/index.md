@@ -58,7 +58,6 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Watch Video
         url: /
         showIcon: true
         icon: playCircle
