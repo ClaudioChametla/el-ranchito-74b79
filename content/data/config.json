@@ -85,7 +85,7 @@
             "phoneAltText": "Our phone",
             "email": "2447 Niagara Falls BlvdBuffalo, NY 14228United States",
             "emailAltText": "Our email",
-            "address": "Mon:11:00 AM – 9:00 PM Tue:11:00 AM – 9:00 PM  Wed:11:00 AM – 9:00 PM Thu:11:00 AM – 9:00 PM Fri:11:00 AM – 9:00 PM Sat:11:30 AM – 9:00 PM Sun:12:00 – 8:00 PM",
+            "address": "Mon to Fri : 11:00 AM – 9:00 PM                 Sat:11:30 AM – 9:00 PM                Sun:12:00 – 8:00 PM",
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
