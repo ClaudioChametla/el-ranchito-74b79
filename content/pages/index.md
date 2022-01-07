@@ -180,9 +180,8 @@ sections:
               - pr-4
       - type: FeaturedItem
         title: Margarona
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         featuredImage:
           url: /images/Captura de pantalla de 2022-01-07 08-51-00.png
           altText: altText of the image
