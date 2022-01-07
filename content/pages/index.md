@@ -110,7 +110,6 @@ sections:
         altText: Apple
         caption: Apple
       - type: ImageBlock
-        url: /images/google-play.svg
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
