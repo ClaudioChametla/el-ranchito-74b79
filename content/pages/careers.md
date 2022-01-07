@@ -117,8 +117,7 @@ sections:
 
               ##### Sun:12:00 – 8:00 PM
             actions:
-              - label: Apply
-                altText: Apply
+              - altText: Apply
                 url: /
                 showIcon: true
                 icon: arrowRight
