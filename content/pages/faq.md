@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Menu
     subtitle: Some Dishes
     images:
       - type: ImageBlock
