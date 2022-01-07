@@ -156,9 +156,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Mexican Beer
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
         featuredImage:
           url: /images/beer.JPG
           altText: altText of the image
