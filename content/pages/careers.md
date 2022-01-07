@@ -103,11 +103,20 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: |
+              ##### Mon:11:00 AM – 9:00 PM
+
+              ##### Tue:11:00 AM – 9:00 PM
+
+              ##### Wed:11:00 AM – 9:00 PM
+
+              ##### Thu:11:00 AM – 9:00 PM
+
+              ##### Fri:11:00 AM – 9:00 PM
+
+              ##### Sat:11:30 AM – 9:00 PM
+
+              ##### Sun:12:00 – 8:00 PM
             actions:
               - label: Apply
                 altText: Apply
