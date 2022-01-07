@@ -51,7 +51,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Drink
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
