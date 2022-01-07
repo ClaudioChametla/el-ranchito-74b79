@@ -36,9 +36,12 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together
+    quote: |
+      ## 2447 Niagara Falls Blvd
+
+      ## Buffalo, NY 14228
+
+      ## United States
     name: Carla Rogers
     title: Someone from the team
     styles:
