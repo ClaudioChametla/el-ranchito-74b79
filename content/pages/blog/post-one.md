@@ -23,7 +23,7 @@ bottomSections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/ChowNow_Company_Logo_Transparent.png
           altText: Item image
         styles:
           self:
