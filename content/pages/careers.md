@@ -43,7 +43,6 @@ sections:
 
       ## United States
     name: (716) 691-5806
-    title: Someone from the team
     styles:
       self:
         height: auto
