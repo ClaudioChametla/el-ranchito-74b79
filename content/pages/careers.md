@@ -129,8 +129,7 @@ sections:
               ever since the 1500s, when an unknown printer took a galley of
               type and
             actions:
-              - label: Apply
-                altText: Apply
+              - altText: Apply
                 url: /
                 showIcon: true
                 icon: arrowRight
