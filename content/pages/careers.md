@@ -70,7 +70,6 @@ sections:
         url: /images/Logo Complementario.png
         altText: People in the meeting room
       - type: ImageBlock
-        url: /images/post-2.jpg
         altText: People in the meeting room
     spacing: 3
     columns: 2
