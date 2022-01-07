@@ -55,7 +55,7 @@ sections:
     subtitle: Mexican Drinks
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        url: /images/Captura de pantalla de 2022-01-07 08-53-24.png
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
