@@ -258,9 +258,8 @@ sections:
     colors: colors-a
     variant: variant-a
     testimonials:
-      - quote: >
-          Such a great experience to be using this product. It really helped
-          with what I needed help with.
+      - quote: |
+          They Say About Us
         name: Carla Rogers
         title: Happy customer
         image:
