@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-h
     title: El Ranchito 3
-    subtitle: You should join us.
+    subtitle: MEXICAN RESTAURANT
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
