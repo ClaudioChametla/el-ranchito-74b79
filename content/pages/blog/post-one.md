@@ -11,7 +11,7 @@ featuredImage:
 bottomSections:
   - colors: colors-h
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Order
     items:
       - type: FeaturedItem
         title: Faster
