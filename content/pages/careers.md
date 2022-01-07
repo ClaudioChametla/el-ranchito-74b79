@@ -42,7 +42,7 @@ sections:
       ## Buffalo, NY 14228
 
       ## United States
-    name: Carla Rogers
+    name: (716) 691-5806
     title: Someone from the team
     styles:
       self:
