@@ -28,7 +28,6 @@ bottomSections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Smarter
         text: |+
 
 
