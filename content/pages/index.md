@@ -102,7 +102,7 @@ sections:
           opacity: 100
       type: ImageBlock
   - colors: colors-h
-    subtitle: Trusted by
+    subtitle: Order by
     elementId: ''
     images:
       - type: ImageBlock
