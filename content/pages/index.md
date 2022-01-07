@@ -207,7 +207,7 @@ sections:
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/Captura de pantalla de 2022-01-07 08-51-18.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
