@@ -5,7 +5,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Some Dishes
     images:
       - type: ImageBlock
         url: /images/1.jpg
