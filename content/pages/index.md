@@ -160,7 +160,7 @@ sections:
           Learn how top tech companies have learned working remote using our
           product.
         featuredImage:
-          url: /images/faster.svg
+          url: /images/beer.JPG
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
