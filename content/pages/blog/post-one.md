@@ -35,7 +35,7 @@ bottomSections:
 
         featuredImage:
           type: ImageBlock
-          url: /images/smarter.svg
+          url: /images/MASCOTA Y COMPLEMENTO.png
           altText: Item image
         styles:
           self:
