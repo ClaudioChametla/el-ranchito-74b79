@@ -51,7 +51,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Drink
+    title: Drinks
     subtitle: Mexican Drinks
     images:
       - type: ImageBlock
