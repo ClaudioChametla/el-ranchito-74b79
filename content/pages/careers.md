@@ -116,14 +116,7 @@ sections:
               ##### Sat:11:30 AM – 9:00 PM
 
               ##### Sun:12:00 – 8:00 PM
-            actions:
-              - altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
+            actions: []
       - type: JobList
         title: Engineering
         items:
