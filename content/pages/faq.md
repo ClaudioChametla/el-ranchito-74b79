@@ -52,7 +52,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Drink
-    subtitle: This is the subtitle
+    subtitle: Mexican Drinks
     images:
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
