@@ -205,7 +205,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Focused
+        title: Especial Drinks
         text: >
           Learn how top tech companies have learned working remote using our
           product.
