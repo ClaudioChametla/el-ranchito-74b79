@@ -12,7 +12,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
+        url: /images/1.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
