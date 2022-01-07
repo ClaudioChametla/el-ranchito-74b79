@@ -47,7 +47,7 @@ bottomSections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/DoorDash-Logo.png
           altText: Item image
         styles:
           self:
