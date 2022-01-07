@@ -98,7 +98,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Open roles
+    title: Open Hours
     jobLists:
       - type: JobList
         title: Product
