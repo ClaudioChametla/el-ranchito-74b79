@@ -54,7 +54,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: Order Now
         url: /
         style: primary
     styles:
