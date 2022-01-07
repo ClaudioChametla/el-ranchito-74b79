@@ -12,9 +12,6 @@ bottomSections:
   - colors: colors-h
     elementId: ''
     title: Order now !!
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
     items:
       - type: FeaturedItem
         text: >-
