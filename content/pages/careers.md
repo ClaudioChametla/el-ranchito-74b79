@@ -121,7 +121,6 @@ sections:
         title: MAP
         items:
           - type: JobListItem
-            title: Senior Backend Engineer
             text: >
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
