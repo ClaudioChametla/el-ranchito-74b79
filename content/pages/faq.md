@@ -109,7 +109,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
-        - name: Your Message
+        - name: Message
           label: Write Us
           hideLabel: false
           placeholder: Please describe
