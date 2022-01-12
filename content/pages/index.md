@@ -130,7 +130,7 @@ sections:
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         featuredImage:
-          url: /images/Captura de pantalla de 2022-01-07 08-51-00.png
+          url: /images/Captura de pantalla de 2022-01-12 10-40-00.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
