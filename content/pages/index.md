@@ -96,58 +96,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-h
-    subtitle: Order by
-    elementId: ''
-    images:
-      - type: ImageBlock
-        altText: Google Play
-        caption: Google Play
-      - type: ImageBlock
-        url: /images/ChowNow_Company_Logo_Transparent.png
-        altText: PlayStation
-        caption: PlayStation
-      - type: ImageBlock
-        altText: Gatsby
-        caption: Gatsby
-      - type: ImageBlock
-        url: /images/DoorDash-Logo.png
-        altText: Xbox
-        caption: Xbox
-      - type: ImageBlock
-        altText: Skype
-        caption: Skype
-      - type: ImageBlock
-        altText: ZCOOL
-        caption: ZCOOL
-    spacing: 3
-    columns: 7
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    imageSizePx: 240
-    type: MediaGallerySection
   - colors: colors-a
     elementId: ''
     title: Mexican Drinks
