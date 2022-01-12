@@ -62,8 +62,6 @@ sections:
     text: |
       ###### Phone Number: (716) 691-5806
 
-      ######
-
       ###### 2447 Niagara Falls Blvd. Buffalo, NY 14228, United States
     styles:
       self:
