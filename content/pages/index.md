@@ -168,9 +168,9 @@ sections:
         text: |
           All Nachos are served with pur famous queso sauce
 
-          *Guacamole Dip*
+          *Nachos Supreme*
 
-          *$ 6.00*
+          *$ 12.99*
         featuredImage:
           url: /images/Captura de pantalla de 2022-01-12 10-40-29.png
           altText: altText of the image
