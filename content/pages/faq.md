@@ -23,7 +23,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/MASCOTA Y COMPLEMENTO.png
       altText: Hero image
     styles:
       self:
