@@ -18,7 +18,7 @@ sections:
       together
     actions:
       - type: Button
-        label: Sign Up
+        label: Order Now
         url: /
         style: primary
     media:
