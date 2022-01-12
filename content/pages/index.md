@@ -46,7 +46,11 @@ sections:
     backgroundSize: inset
     title: Best dish of the day
     text: |
-      Speedy Gonzales, Taco, enchilada, Rice or Beans.
+      ###### **Speedy Gonzales, Taco, enchilada, Rice or Beans.**
+
+
+
+      ### $8.99
     badge:
       type: Badge
       styles:
