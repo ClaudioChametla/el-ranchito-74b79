@@ -134,8 +134,15 @@ sections:
               - pr-4
       - type: FeaturedItem
         title: Enchiladas
-        text: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        text: >
+          Enchiladas Supreme
+
+
+          *Four enchiladas: 1 beef, 1 chicken, 1 cheese and 1 bean; covered wth
+          enchilada sauce topped with lettuce, tomatoes and spur cream.*
+
+
+          *$ 13.99*
         featuredImage:
           url: /images/Captura de pantalla de 2022-01-12 10-40-00.png
           altText: altText of the image
