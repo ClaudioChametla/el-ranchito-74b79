@@ -94,7 +94,7 @@ sections:
   - colors: colors-f
     elementId: ''
     title: Menu
-    subtitle: This is the subtitle
+    subtitle: Mexican Dishes
     images:
       - type: ImageBlock
         url: /images/1.jpg
