@@ -246,9 +246,8 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Happy Clients
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Sed egestas, ante vulputa eros pede vitae luctus metus augue.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
