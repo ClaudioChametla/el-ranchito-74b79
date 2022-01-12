@@ -133,7 +133,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Margarona
+        title: Enchiladas
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         featuredImage:
