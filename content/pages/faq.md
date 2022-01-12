@@ -112,7 +112,7 @@ sections:
         - name: Message
           label: Write Us
           hideLabel: false
-          placeholder: Please describe
+          placeholder: Your Message
           isRequired: false
           width: full
           type: TextareaFormControl
