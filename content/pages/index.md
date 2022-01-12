@@ -306,7 +306,7 @@ sections:
         title: Nice Restaurant
         image:
           type: ImageBlock
-          url: /images/carla.jpg
+          url: /images/client.png
           altText: Photo of Carla Rogers
     styles:
       self:
