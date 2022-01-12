@@ -284,9 +284,8 @@ sections:
     colors: colors-a
     variant: variant-a
     testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+      - quote: |
+          “I love the food of this restaurant”
         name: Johnna Doe
         title: Client
         image:
