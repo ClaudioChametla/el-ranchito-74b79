@@ -6,13 +6,10 @@ sections:
     colors: colors-a
     title: The Section Title
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedolorm
+      reminusto&#xA;doeiusmod tempor condorico consectetur adipiscing elitut
+      aliquip.
     styles:
       self:
         height: auto
