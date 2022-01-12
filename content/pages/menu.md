@@ -38,7 +38,7 @@ sections:
     colors: colors-h
     quote: |
       ## This Our menu
-    name: (716) 691-5806
+    name: Good Food & Fresh Ingredients
     styles:
       self:
         height: auto
