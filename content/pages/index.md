@@ -101,9 +101,6 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        altText: Apple
-        caption: Apple
-      - type: ImageBlock
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
