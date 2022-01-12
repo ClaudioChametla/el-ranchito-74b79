@@ -93,7 +93,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-f
     elementId: ''
-    title: Gallery
+    title: Menu
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
