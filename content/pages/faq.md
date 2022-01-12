@@ -59,10 +59,8 @@ sections:
     colors: colors-a
     title: Check our contact info
     subtitle: ''
-    text: >
-      ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedolorm
-      reminusto&#xA;doeiusmod tempor condorico consectetur adipiscing elitut
-      aliquip.
+    text: |
+      ###### 2447 Niagara Falls Blvd. Buffalo, NY 14228, United States
     styles:
       self:
         height: auto
