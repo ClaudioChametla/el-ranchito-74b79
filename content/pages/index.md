@@ -250,7 +250,7 @@ sections:
           Sed egestas, ante vulputa eros pede vitae luctus metus augue.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/rating.png
           altText: Item image
         styles:
           self:
