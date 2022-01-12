@@ -37,11 +37,7 @@ sections:
   - elementId: ''
     colors: colors-h
     quote: |
-      ## 2447 Niagara Falls Blvd
-
-      ## Buffalo, NY 14228
-
-      ## United States
+      ## This Our menu
     name: (716) 691-5806
     styles:
       self:
