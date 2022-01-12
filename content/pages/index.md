@@ -297,7 +297,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Captura de pantalla de 2022-01-12 11-12-51.png
+      url: /images/LOGO COMPLETO.png
       altText: Hero image
     styles:
       self:
