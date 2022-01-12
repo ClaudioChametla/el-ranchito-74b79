@@ -10,7 +10,7 @@
             {
                 "type": "Link",
                 "label": "Menu",
-                "url": "/menu",
+                "url": "/",
                 "altText": ""
             },
             {
