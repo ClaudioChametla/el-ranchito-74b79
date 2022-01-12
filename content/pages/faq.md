@@ -57,7 +57,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Contact Us
+    title: Check our contact info
     subtitle: ''
     text: >
       ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedolorm
