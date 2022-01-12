@@ -109,12 +109,6 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
-        - type: TextFormControl
-          name: address
-          label: Your message
-          placeholder: Write here your message
-          isRequired: 'false'
-          width: full
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
