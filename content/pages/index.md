@@ -303,7 +303,7 @@ sections:
       - quote: |
           They Say About Us
         name: Carla Rogers
-        title: Nice Restaurant
+        title: Client
         image:
           type: ImageBlock
           url: /images/client.png
