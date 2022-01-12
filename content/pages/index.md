@@ -301,7 +301,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
       - quote: |
-          They Say About Us
+          This is the best mexican restaurant
         name: Carla Rogers
         title: Client
         image:
