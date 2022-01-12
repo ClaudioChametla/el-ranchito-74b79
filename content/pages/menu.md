@@ -35,7 +35,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-b
+    colors: colors-e
     quote: |
       # This Our menu
     name: Good Food & Fresh Ingredients
