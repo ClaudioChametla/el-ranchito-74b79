@@ -110,7 +110,7 @@ sections:
           isRequired: 'true'
           width: 1/2
         - name: Your Message
-          label: Description
+          label: Write Us
           hideLabel: false
           placeholder: Please describe
           isRequired: false
