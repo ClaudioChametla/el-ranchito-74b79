@@ -120,6 +120,13 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
+        - name: Write your message.
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Send Message
     media:
       type: ImageBlock
