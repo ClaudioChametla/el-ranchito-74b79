@@ -102,7 +102,7 @@ sections:
     subtitle: These are some mexican drinks
     items:
       - type: FeaturedItem
-        title: Mexican Beer
+        title: Tacos
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
         featuredImage:
