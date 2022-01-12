@@ -228,7 +228,7 @@ sections:
           Sed egestas, ante vulputa eros pede vitae luctus metus augue.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/ingredients.png
           altText: Item image
         styles:
           self:
