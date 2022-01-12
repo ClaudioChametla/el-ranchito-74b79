@@ -8,7 +8,7 @@ sections:
     title: From Our Family To Yours
     subtitle: ''
     badge:
-      label: This is the badge
+      label: El ranchito 3
       elementId: ''
       styles:
         self:
