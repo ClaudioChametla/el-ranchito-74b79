@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: Contact Us
     subtitle: ''
     text: >
       ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedolorm
