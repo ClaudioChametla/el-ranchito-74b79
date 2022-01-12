@@ -18,17 +18,6 @@
                 "type": "Link"
             },
             {
-                "label": "Home",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Button"
-            },
-            {
                 "type": "Link",
                 "label": "Menu",
                 "url": "/menu",
