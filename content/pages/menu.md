@@ -140,7 +140,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Mexican Drinks
     subtitle: Mexican Drinks
     images:
       - type: ImageBlock
