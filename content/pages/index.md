@@ -221,7 +221,6 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-h
     elementId: ''
-    subtitle: +.
     items:
       - type: FeaturedItem
         title: Faster
