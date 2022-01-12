@@ -94,7 +94,7 @@ sections:
   - colors: colors-f
     elementId: ''
     title: Menu
-    subtitle: Mexican Dishes
+    subtitle: Mexican Plates
     images:
       - type: ImageBlock
         url: /images/1.jpg
