@@ -13,9 +13,13 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      El Ranchito Mexican Restaurant is proud to be a part of your neighborthood
+      since 2012.
+
+
+      We enjoy providing quality and beverages, warm friendly service and good
+      value for you and your family.
     actions:
       - type: Button
         label: Order Now
