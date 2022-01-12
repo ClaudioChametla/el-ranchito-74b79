@@ -22,7 +22,7 @@ sections:
       value for you and your family.
     actions:
       - type: Button
-        label: Order Now
+        label: Store Information
         url: /blog
         style: primary
     media:
