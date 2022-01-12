@@ -8,6 +8,16 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "label": "Home",
                 "altText": "",
                 "url": "/",
