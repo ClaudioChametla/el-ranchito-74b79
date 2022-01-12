@@ -103,8 +103,15 @@ sections:
     items:
       - type: FeaturedItem
         title: Tacos
-        text: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+        text: >
+          ##### All tacos come three, per order. Served with rice, beans,
+          onions, cilantro and salsa
+
+
+          ###### Tacos chihuahua
+
+
+          ###### $14.99
         featuredImage:
           url: /images/Captura de pantalla de 2022-01-12 10-39-02.png
           altText: altText of the image
