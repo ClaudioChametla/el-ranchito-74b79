@@ -123,7 +123,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/careers.jpg
+      url: /images/LOGO COMPLETO.png
       altText: Contact form image
     styles:
       self:
