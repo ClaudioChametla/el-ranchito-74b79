@@ -23,7 +23,7 @@ sections:
     actions:
       - type: Button
         label: Order Now
-        url: /
+        url: /blog
         style: primary
     media:
       type: ImageBlock
