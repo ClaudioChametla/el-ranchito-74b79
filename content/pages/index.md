@@ -106,7 +106,7 @@ sections:
         text: |
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
         featuredImage:
-          url: /images/beer.JPG
+          url: /images/Captura de pantalla de 2022-01-12 10-39-02.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
