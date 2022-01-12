@@ -221,9 +221,7 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-h
     elementId: ''
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+    subtitle: +.
     items:
       - type: FeaturedItem
         title: Faster
