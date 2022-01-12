@@ -8,6 +8,17 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": "",
+                "type": "Button"
+            },
+            {
                 "type": "Link",
                 "label": "Menu",
                 "url": "/menu",
