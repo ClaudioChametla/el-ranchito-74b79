@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: From Our Family To Yours
     subtitle: ''
     badge:
       label: This is the badge
