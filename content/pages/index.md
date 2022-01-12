@@ -282,51 +282,6 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-a
-    variant: variant-a
-    testimonials:
-      - quote: |
-          “I love the food of this restaurant”
-        name: Johnna Doe
-        title: Client
-        image:
-          url: /images/client.png
-          altText: Person photo
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-            fontStyle: normal
-          title:
-            fontWeight: 400
-            fontStyle: normal
-      - quote: |
-          "This is the best mexican restaurant"
-        name: Carla Rogers
-        title: Client
-        image:
-          type: ImageBlock
-          url: /images/client.png
-          altText: Photo of Carla Rogers
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-56
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
-  - elementId: ''
-    colors: colors-a
     backgroundSize: full
     title: 'A great feature, we’re proud of'
     subtitle: ''
@@ -472,4 +427,49 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - elementId: ''
+    colors: colors-a
+    variant: variant-a
+    testimonials:
+      - quote: |
+          “I love the food of this restaurant”
+        name: Johnna Doe
+        title: Client
+        image:
+          url: /images/client.png
+          altText: Person photo
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+            fontStyle: normal
+          title:
+            fontWeight: 400
+            fontStyle: normal
+      - quote: |
+          "This is the best mexican restaurant"
+        name: Carla Rogers
+        title: Client
+        image:
+          type: ImageBlock
+          url: /images/client.png
+          altText: Photo of Carla Rogers
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-56
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    type: TestimonialsSection
 ---
