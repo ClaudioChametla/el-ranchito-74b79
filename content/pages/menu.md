@@ -156,7 +156,7 @@ sections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
+        url: /images/Captura de pantalla de 2022-01-07 08-51-00.png
         altText: Image four
         caption: Image four caption
     spacing: 1
