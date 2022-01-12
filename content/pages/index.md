@@ -166,7 +166,11 @@ sections:
       - type: FeaturedItem
         title: Nachos & dips
         text: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          All Nachos are served with pur famous queso sauce
+
+          *Guacamole Dip*
+
+          *$ 6.00*
         featuredImage:
           url: /images/Captura de pantalla de 2022-01-12 10-40-29.png
           altText: altText of the image
