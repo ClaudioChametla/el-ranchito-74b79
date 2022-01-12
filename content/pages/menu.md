@@ -8,7 +8,7 @@ sections:
     subtitle: MEXICAN RESTAURANT
     media:
       type: ImageBlock
-      url: /images/
+      url: /images/1.jpg
       altText: Hero section image
     styles:
       self:
