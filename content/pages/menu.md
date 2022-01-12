@@ -37,7 +37,7 @@ sections:
   - elementId: ''
     colors: colors-h
     quote: |
-      ## This Our menu
+      # This Our menu
     name: Good Food & Fresh Ingredients
     styles:
       self:
