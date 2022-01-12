@@ -301,7 +301,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
       - quote: |
-          This is the best mexican restaurant
+          "This is the best mexican restaurant"
         name: Carla Rogers
         title: Client
         image:
