@@ -239,7 +239,7 @@ sections:
           Sed egestas, ante vulputa eros pede vitae luctus metus augue.
         featuredImage:
           type: ImageBlock
-          url: /images/smarter.svg
+          url: /images/cook-book.png
           altText: Item image
         styles:
           self:
