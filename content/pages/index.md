@@ -219,53 +219,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - elementId: ''
-    colors: colors-a
-    variant: variant-a
-    testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
-          altText: Person photo
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-            fontStyle: normal
-          title:
-            fontWeight: 400
-            fontStyle: normal
-      - quote: |
-          They Say About Us
-        name: Carla Rogers
-        title: Nice Restaurant
-        image:
-          type: ImageBlock
-          url: /images/carla.jpg
-          altText: Photo of Carla Rogers
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-56
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
   - colors: colors-h
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
@@ -334,4 +287,51 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
+  - elementId: ''
+    colors: colors-a
+    variant: variant-a
+    testimonials:
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+            fontStyle: normal
+          title:
+            fontWeight: 400
+            fontStyle: normal
+      - quote: |
+          They Say About Us
+        name: Carla Rogers
+        title: Nice Restaurant
+        image:
+          type: ImageBlock
+          url: /images/carla.jpg
+          altText: Photo of Carla Rogers
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-56
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    type: TestimonialsSection
 ---
