@@ -395,7 +395,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Sea F
     subtitle: ''
     badge:
       label: This is the badge
