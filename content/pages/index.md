@@ -396,7 +396,6 @@ sections:
     title: Seafood Plates
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
