@@ -351,15 +351,24 @@ sections:
           textAlign: left
     text: >
       1.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
-      Taco
+      Arroz Con Pollo . . . . . . . $ 13.90
 
 
-      2. 
-      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)Taco
+      2.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      El Pollo Loco . . . . . . . . . . $ 14.50
 
 
-      3. 
-      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)Taco
+      3.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      El pollo a la Diabla . . . . .  $ 14.50
+
+
+      4. 
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)Chori
+      Pollo . . . . . . . . . . . . . $ 15.50
+
+
+      5.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      El pollo norteño . . . . . . . . $ 18.50
     actions: []
     media:
       type: ImageBlock
