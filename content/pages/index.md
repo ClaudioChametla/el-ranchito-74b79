@@ -395,7 +395,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Sea F
+    title: Seafood Plates
     subtitle: ''
     badge:
       label: This is the badge
