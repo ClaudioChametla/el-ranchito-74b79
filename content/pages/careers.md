@@ -123,14 +123,7 @@ sections:
           - type: JobListItem
             text: >
               ![](/images/Captura%20de%20pantalla%20de%202022-01-13%2008-52-56.png)
-            actions:
-              - altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
+            actions: []
     styles:
       self:
         height: auto
