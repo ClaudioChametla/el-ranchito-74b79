@@ -123,6 +123,15 @@ sections:
           - type: JobListItem
             text: >
               ![](/images/Captura%20de%20pantalla%20de%202022-01-13%2008-52-56.png)
+
+
+              ### 2447 Niagara Falls Blvd
+
+
+              ### Buffalo, NY 14228
+
+
+              ### United States
             actions: []
     styles:
       self:
