@@ -416,23 +416,24 @@ sections:
           textAlign: left
     text: >
       1.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
-      Camarones al chipotle . . . . . .  $ 14.00
+      Camarones al chipotle . . . . . .  $ 16.99
 
 
-      2. 
-      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)dsafdsa
+      2.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      Camarones al Mojo de Ajo . . . $ 16.99
 
 
       3.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
-      fdsafdsafdsa
+      Coctel de camarón . . . . . . . . . . $ 16.99
 
 
-      4.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
-      fdsafdsafdsa
+      4.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png) 
+      Camarones a la Diabla . . . . . .  $ 16.99
 
 
       5. 
-      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)fdsafdsafsda
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)Shrimp
+      Chimochanga . . . . . . . . $16.99
     actions: []
     media:
       type: ImageBlock
