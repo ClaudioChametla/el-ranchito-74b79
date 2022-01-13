@@ -99,7 +99,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Popular Dishes
-    subtitle: These are some mexican drinks
+    subtitle: There are some mexican dishes
     items:
       - type: FeaturedItem
         title: Tacos
