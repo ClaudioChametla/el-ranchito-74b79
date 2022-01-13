@@ -111,7 +111,7 @@ sections:
           *Tacos chihuahua*
 
 
-          *$1 4.99*
+          *$ 14.99*
         featuredImage:
           url: /images/Captura de pantalla de 2022-01-12 10-39-02.png
           altText: altText of the image
