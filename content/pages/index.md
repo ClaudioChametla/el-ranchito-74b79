@@ -292,21 +292,22 @@ sections:
           textAlign: left
     text: >
       1.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Bistek Santa Fe . . . . . $ 24.00
 
 
       2. 
       ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26-f8b270c1.png)
-      Limons
+      House Special . . . . . . $ 24.00
 
 
       3. 
-      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)dsadsfodksoak
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)El
+      ranchero . . . . . . . . . . $ 24.00
 
 
       4. 
-      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)Taco
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)Bistec
+      a la Tampiqueña . . .$ 24.00
     actions: []
     media:
       type: ImageBlock
