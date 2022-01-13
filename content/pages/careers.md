@@ -8,7 +8,7 @@ sections:
     subtitle: MEXICAN RESTAURANT
     media:
       type: ImageBlock
-      url: /images/MASCOTA Y COMPLEMENTO.png
+      url: /images/LOGO COMPLETO-718a22ad.png
       altText: Hero section image
     styles:
       self:
