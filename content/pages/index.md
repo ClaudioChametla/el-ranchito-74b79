@@ -286,7 +286,6 @@ sections:
     title: Steak Plates
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
