@@ -291,7 +291,8 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
+    text: >
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2010-38-43-0a67fc81.png)
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
     actions: []
