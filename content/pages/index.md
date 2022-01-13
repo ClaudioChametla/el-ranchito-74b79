@@ -342,7 +342,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Chicken Plates
     subtitle: ''
     badge:
       label: This is the badge
