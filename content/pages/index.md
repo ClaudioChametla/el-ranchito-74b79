@@ -308,6 +308,10 @@ sections:
       4. 
       ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)Bistec
       a la Tampiqueña . . .$ 24.00
+
+
+      5.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-28-26.png)
+      El Poblano . . . . . . . . . . . . $ 24.00
     actions: []
     media:
       type: ImageBlock
