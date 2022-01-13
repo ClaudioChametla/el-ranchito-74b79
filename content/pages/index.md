@@ -344,7 +344,6 @@ sections:
     title: Chicken Plates
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
