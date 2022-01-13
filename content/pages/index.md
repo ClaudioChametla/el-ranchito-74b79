@@ -98,7 +98,7 @@ sections:
       type: ImageBlock
   - colors: colors-a
     elementId: ''
-    title: Mexican Drinks
+    title: Popular Dishes
     subtitle: These are some mexican drinks
     items:
       - type: FeaturedItem
