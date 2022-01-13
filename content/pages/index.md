@@ -350,9 +350,17 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      1.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      Taco
+
+
+      2. 
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)Taco
+
+
+      3. 
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)Taco
     actions: []
     media:
       type: ImageBlock
