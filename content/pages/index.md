@@ -414,9 +414,25 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      1.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      Camarones al chipotle . . . . . .  $ 14.00
+
+
+      2. 
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)dsafdsa
+
+
+      3.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      fdsafdsafdsa
+
+
+      4.  ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)
+      fdsafdsafdsa
+
+
+      5. 
+      ![](/images/Captura%20de%20pantalla%20de%202022-01-12%2021-32-18.png)fdsafdsafsda
     actions: []
     media:
       type: ImageBlock
