@@ -40,6 +40,17 @@
                 "label": "order food",
                 "altText": "Blog",
                 "url": "/blog"
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": "",
+                "type": "Button"
             }
         ],
         "secondaryLinks": [],
