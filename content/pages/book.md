@@ -109,7 +109,7 @@ sections:
           type: TextFormControl
           label: Date
         - name: home-address
-          label: Home address
+          label: Guest
           hideLabel: true
           placeholder: Your home address
           isRequired: false
