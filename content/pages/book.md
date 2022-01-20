@@ -72,7 +72,7 @@ sections:
   - elementId: contact-form
     colors: colors-f
     backgroundSize: inset
-    title: Fill the
+    title: Fill in the fields
     form:
       type: FormBlock
       variant: variant-a
