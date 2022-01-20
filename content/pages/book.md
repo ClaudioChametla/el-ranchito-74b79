@@ -108,7 +108,7 @@ sections:
           width: 1/2
           type: TextFormControl
           label: Date
-        - name: home-address
+        - name: guest
           label: Guest
           hideLabel: true
           placeholder: Your home address
