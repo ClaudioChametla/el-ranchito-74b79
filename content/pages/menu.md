@@ -197,7 +197,7 @@ sections:
     actions:
       - type: Button
         label: Menu
-        url: /
+        url: /AllMenu
         style: primary
     backgroundImage: null
     styles:
