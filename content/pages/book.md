@@ -118,7 +118,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Please describe
+          placeholder: Message
           isRequired: false
           width: full
           type: TextareaFormControl
