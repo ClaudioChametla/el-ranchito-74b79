@@ -44,7 +44,7 @@
             {
                 "label": "Book A Table",
                 "altText": "",
-                "url": "/",
+                "url": "/BookATable",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
