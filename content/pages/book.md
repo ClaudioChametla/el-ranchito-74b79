@@ -102,7 +102,7 @@ sections:
           isRequired: true
           width: full
         - name: home-address
-          hideLabel: false
+          hideLabel: true
           placeholder: Your home address
           isRequired: false
           width: full
