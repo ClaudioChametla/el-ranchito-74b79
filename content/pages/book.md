@@ -103,7 +103,7 @@ sections:
           width: full
         - name: home-address
           hideLabel: true
-          placeholder: Your home address
+          placeholder: Date
           isRequired: false
           width: full
           type: TextFormControl
