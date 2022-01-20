@@ -110,7 +110,7 @@ sections:
           label: Date
         - name: home-address
           label: Home address
-          hideLabel: false
+          hideLabel: true
           placeholder: Your home address
           isRequired: false
           width: full
