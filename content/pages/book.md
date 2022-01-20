@@ -37,7 +37,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Let's do this
+    title: Bookn A Table
     text: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedolorm
       reminusto
