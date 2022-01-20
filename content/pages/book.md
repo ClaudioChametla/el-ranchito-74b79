@@ -116,7 +116,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: message
-          label: Description
+          label: Message
           hideLabel: false
           placeholder: Please describe
           isRequired: false
