@@ -111,7 +111,7 @@ sections:
         - name: guest
           label: Guest
           hideLabel: true
-          placeholder: Your home address
+          placeholder: guest
           isRequired: false
           width: 1/2
           type: TextFormControl
