@@ -122,7 +122,7 @@ sections:
           isRequired: false
           width: full
           type: TextareaFormControl
-      submitLabel: Submit
+      submitLabel: Reservation
       styles:
         submitLabel:
           textAlign: center
