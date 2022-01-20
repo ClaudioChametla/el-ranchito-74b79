@@ -115,6 +115,13 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
+        - name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Submit
       styles:
         submitLabel:
