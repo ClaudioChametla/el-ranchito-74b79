@@ -107,6 +107,7 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
+          label: Date
       submitLabel: Submit
       styles:
         submitLabel:
