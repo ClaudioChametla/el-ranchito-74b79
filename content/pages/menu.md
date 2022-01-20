@@ -196,7 +196,7 @@ sections:
       doeiusmod tempor condorico consectetur adipiscing elitut aliquip.
     actions:
       - type: Button
-        label: Try it now
+        label: Menu
         url: /
         style: primary
     backgroundImage: null
