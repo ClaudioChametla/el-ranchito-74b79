@@ -189,9 +189,11 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: SHOW THE MENU
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedolorm
+      reminusto
+
+      doeiusmod tempor condorico consectetur adipiscing elitut aliquip.
     actions:
       - type: Button
         label: Try it now
