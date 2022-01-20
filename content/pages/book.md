@@ -101,13 +101,6 @@ sections:
           placeholder: Email
           isRequired: true
           width: full
-        - type: TextFormControl
-          name: address
-          label: Your address
-          hideLabel: true
-          placeholder: Address
-          isRequired: false
-          width: full
       submitLabel: Submit
       styles:
         submitLabel:
