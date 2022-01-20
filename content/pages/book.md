@@ -105,7 +105,7 @@ sections:
           hideLabel: true
           placeholder: Date
           isRequired: false
-          width: full
+          width: 1/2
           type: TextFormControl
           label: Date
       submitLabel: Submit
