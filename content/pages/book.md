@@ -108,6 +108,13 @@ sections:
           width: 1/2
           type: TextFormControl
           label: Date
+        - name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
+          type: TextFormControl
       submitLabel: Submit
       styles:
         submitLabel:
