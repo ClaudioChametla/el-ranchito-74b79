@@ -113,7 +113,7 @@ sections:
           hideLabel: true
           placeholder: Your home address
           isRequired: false
-          width: full
+          width: 1/2
           type: TextFormControl
       submitLabel: Submit
       styles:
