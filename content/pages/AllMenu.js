@@ -7,7 +7,7 @@ export default function Home() {
             <meta name="myportfolioproyect" content="Menu from El Ranchito 3" />
             <link rel="icon" href="/favicon.ico" />
             <body>
-                <embed src="public/menuElRacnito.pdf" type="application/pdf" width="100%" height="100%" />
+                <embed src="public/menuElRacnito3.pdf" type="application/pdf" width="100%" height="100%" />
             </body>
         </flexbox>
     );
