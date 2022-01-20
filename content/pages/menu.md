@@ -197,7 +197,7 @@ sections:
     actions:
       - type: Button
         label: Menu
-        url: /AllMenu
+        url: 'https://drive.google.com/file/d/1HaEIFMR3k0pQ0u-7Vff5cawSAEP6m__-/view'
         style: primary
     backgroundImage: null
     styles:
