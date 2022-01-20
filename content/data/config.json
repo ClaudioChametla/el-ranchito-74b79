@@ -39,7 +39,7 @@
                 "type": "Link",
                 "label": "order food",
                 "altText": "Blog",
-                "url": "/blog"
+                "url": "/order"
             },
             {
                 "label": "Book A Table",
