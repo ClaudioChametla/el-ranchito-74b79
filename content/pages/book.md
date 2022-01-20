@@ -35,31 +35,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-h
-    quote: |
-      ##
-    name: (716) 691-5806
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-36
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
-    type: QuoteSection
-  - elementId: ''
     colors: colors-a
     images:
       - type: ImageBlock
